@@ -83,9 +83,3 @@ Two submissions are required in order to participate:
 
 ---
 
-## Key Questions
-Comparison to the asteroid bidding contest setting, this one is:
-* Relying less on large data modeling but more strategic planning and understanding of the problem statement.
-* More inclusive of different problem-solving strategies to allow entries of participants from various backgrounds (math vs. computer science).
-* Lower level of effort to complete (?)
-* Easier to grade on our end (?)
